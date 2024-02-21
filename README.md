@@ -4,7 +4,7 @@
 <div align="center"><a href="http://www.github.com/kajahl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kajahl&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
 <hr>
 <h3 align="center">Projects</h3>
-<div style="display:flex;grid-template-rows: 1fr 1fr;">
+<div style="display: grid; grid-template-rows: 1fr 1fr; width: 100%; min-height: 200px;">
   <div>A</div>
   <div>B</div>
   <div>C</div>

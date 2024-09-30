@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kacper</h1>
+<h1 align="center">I'm Kacper</h1>
 <h3 align="center">Cybersecurity student</h3>
 <h4 align="center">Currently working on <a href="https://www.npmjs.com/package/twitch-bot-framework">Twitch Bot Framework</a></h4>
 

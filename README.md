@@ -1,12 +1,44 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kjahl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kjahl" height="30" width="40" /></a>
-<a href="https://instagram.com/k.jahl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.jahl" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kajahl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kajahl" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kajahl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kajahl" height="30" width="40" /></a>
+<h1 align="center">👋 Hi, I'm Kacper</h1>
+
+<p align="center">
+  🔹 Software Developer | 🔹 Cybersecurity Enthusiast | 🔹 TypeScript & Node.js
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kajahl&" alt="kajahl" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kajahl&show_icons=true&locale=en&layout=compact" alt="kajahl" /></p>
+---
 
+<h3 align="left">🔧 About Me</h3>
 
+- 🎓 Studying **Cybersecurity**
+- 🎯 Currently working on [**TFxJS**](https://github.com/tfxjs/tfxjs)
+
+---
+
+<h3 align="center">⚡ Tech Stack</h3>
+
+💻 **Languages & Frameworks**
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![NestJS](https://img.shields.io/badge/-Nestjs-red?style=flat-square&logo=nestjs)
+![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat-square&logo=typeorm)
+
+🛠 **Software Architecture & Patterns**
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-blueviolet?style=flat-square)
+
+🐳 **DevOps**
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajahl&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajahl&theme=tokyonight" width="48%" alt="GitHub Streak">
+</p>
+
+---
+
+### 📫 **Contact Me**
+📧 Email: [jahlkacper@gmail.com](mailto:jahlkacper@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/kjahl](https://www.linkedin.com/in/kjahl/)  
+<!--🚀 Portfolio: [YourWebsite](https://YourWebsite.com)-->

@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kacper</h1>
 
 <p align="center">
-  🔹 Software Developer | 🔹 Cybersecurity Enthusiast | 🔹 TypeScript & Node.js | 🔹 .NET & C#
+  🔹 Software Developer 🔹 Cybersecurity Enthusiast 🔹 TypeScript & Node.js 🔹 .NET & C# 🔹
 </p>
 
 ---
@@ -27,10 +27,10 @@
 <!--![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=asp.net)-->
 <!--![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-563D7C?style=flat-square&logo=entity-framework)-->
 
-🛠 **Software Architecture & Patterns**
+🛠 **Software Architecture & Patterns**  
 ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-blueviolet?style=flat-square)
 
-🐳 **DevOps**
+🐳 **DevOps**  
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 
 ---

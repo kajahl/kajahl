@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kacper</h1>
 
 <p align="center">
-  🔹 Software Developer | 🔹 Cybersecurity Enthusiast | 🔹 TypeScript & Node.js
+  🔹 Software Developer | 🔹 Cybersecurity Enthusiast | 🔹 TypeScript & Node.js | 🔹 .NET & C#
 </p>
 
 ---
@@ -15,12 +15,16 @@
 
 <h3 align="center">⚡ Tech Stack</h3>
 
-💻 **Languages & Frameworks**
+💻 **Languages & Frameworks**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![NestJS](https://img.shields.io/badge/-Nestjs-red?style=flat-square&logo=nestjs)
-![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat-square&logo=typeorm)
+![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat-square&logo=typeorm)  
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
+<!--![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=asp.net)-->
+<!--![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-563D7C?style=flat-square&logo=entity-framework)-->
 
 🛠 **Software Architecture & Patterns**
 ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-blueviolet?style=flat-square)

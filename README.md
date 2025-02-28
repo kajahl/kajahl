@@ -10,6 +10,7 @@
 
 - 🎓 Studying **Cybersecurity**
 - 🎯 Currently working on [**TFxJS**](https://github.com/tfxjs/tfxjs)
+- 🎓 Learning **C# .NET**
 
 ---
 

@@ -37,7 +37,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kajahl&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"><br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=kajahl&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats"><br/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kajahl&theme=tokyonight" width="48%" alt="GitHub Streak">
 </p>
 

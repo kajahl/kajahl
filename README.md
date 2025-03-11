@@ -22,6 +22,8 @@
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![NestJS](https://img.shields.io/badge/-Nestjs-red?style=flat-square&logo=nestjs)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-blue?style=flat-square&logo=typeorm)  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white)  
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
 <!--![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=asp.net)-->

@@ -9,8 +9,9 @@
 <h3 align="left">🔧 About Me</h3>
 
 - 🎓 Studying **Cybersecurity**
-- 🎯 Currently working on [**TFxJS**](https://github.com/tfxjs/tfxjs)
-- 🎓 Learning **C# .NET**
+- ⚙️ Currently working on [**Eventory API**](https://github.com/kajahl/eventory-api)
+- 🛠️ Developing [**TFxJS**](https://github.com/tfxjs/tfxjs) in my free time 
+- 📚 Learning **C# .NET**
 
 ---
 
